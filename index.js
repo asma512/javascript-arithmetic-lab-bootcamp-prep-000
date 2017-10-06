@@ -11,7 +11,7 @@ function multiply(a,b){
 function divide(a,b){
   return a/b
 }
-function in(a){
+function inc(a){
   return a++
 }
 function dec(a){
